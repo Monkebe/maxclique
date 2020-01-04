@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="707b0567-e297-447e-a12c-1869ce605a77" name="Default Changelist" comment="" />
+    <list default="true" id="707b0567-e297-447e-a12c-1869ce605a77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/MaxCliqueRunner$.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/MaxCliqueRunner$.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$JoinedSubCliqueCriteria.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$JoinedSubCliqueCriteria.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$SubClique.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$SubClique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$SubCliqueCriteria.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$SubCliqueCriteria.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$VertexMaximalCliques.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/com/monkebe/maxclique/package$$VertexMaximalCliques.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/docs/scaladoc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/docs/scaladoc/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -28,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="-306">
+              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
               <folding>
                 <element signature="e#32#99#0" expanded="true" />
               </folding>
@@ -58,6 +74,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="93" column="4" lean-forward="true" selection-start-line="93" selection-start-column="4" selection-end-line="109" selection-end-column="5" />
+              <folding>
+                <element signature="e#31#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -77,6 +105,9 @@
       <find>VertexId</find>
       <find>com.</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,6 +133,7 @@
     <option name="width" value="720" />
     <option name="height" value="825" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,7 +217,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578118693024" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578119059738" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -323,7 +355,7 @@
       <workItem from="1577515217519" duration="229000" />
       <workItem from="1577515449613" duration="17266000" />
       <workItem from="1577858173958" duration="12208000" />
-      <workItem from="1578115427531" duration="3033000" />
+      <workItem from="1578115427531" duration="3685000" />
     </task>
     <servers />
   </component>
@@ -360,7 +392,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32736000" />
+    <option name="totallyTimeSpent" value="33388000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,9 +404,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="825" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32331902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -384,7 +417,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3287858" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -481,9 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#31#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,13 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/monkebe/maxclique/demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -625,22 +648,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/monkebe/maxclique/demo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="126" column="39" selection-start-line="126" selection-start-column="39" selection-end-line="126" selection-end-column="39" />
-          <folding>
-            <element signature="e#31#70#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="-306">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
           <folding>
             <element signature="e#32#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="93" column="4" lean-forward="true" selection-start-line="93" selection-start-column="4" selection-end-line="109" selection-end-column="5" />
+          <folding>
+            <element signature="e#31#70#0" expanded="true" />
           </folding>
         </state>
       </provider>

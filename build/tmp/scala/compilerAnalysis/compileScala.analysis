@@ -30,7 +30,7 @@ name hashing:
 1 items
 0 -> true
 products:
-23 items
+20 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$anonfun$$nestedInanonfun$reduceSubCliqueDatasetList$8$1.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$1.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$2.class
@@ -41,9 +41,6 @@ products:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator9$2.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner.class
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo$$typecreator5$1.class
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo$.class
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria$.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria.class
@@ -55,15 +52,11 @@ products:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$VertexMaximalCliques.class
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package.class
 binary dependencies:
-10 items
+6 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.12/2.4.4/50172ab29cae575c85216348cf22a544f7d7205/spark-catalyst_2.12-2.4.4.jar
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.12/2.4.4/ec1d629508b27dd126a3b24ce8af91e72778e16f/spark-sql_2.12-2.4.4.jar
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/682d33402cdae50258afa2c0860eb54688dab610/scala-reflect-2.12.8.jar
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.12/2.4.4/50172ab29cae575c85216348cf22a544f7d7205/spark-catalyst_2.12-2.4.4.jar
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.12/2.4.4/ec1d629508b27dd126a3b24ce8af91e72778e16f/spark-sql_2.12-2.4.4.jar
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/682d33402cdae50258afa2c0860eb54688dab610/scala-reflect-2.12.8.jar
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-graphx_2.12/2.4.4/f51ac35d8b41f2129b69c5b878ab3e8d637efd85/spark-graphx_2.12-2.4.4.jar
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar
 direct source dependencies:
@@ -84,7 +77,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-23 items
+20 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner$
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner$$anonfun$$nestedInanonfun$reduceSubCliqueDatasetList$8$1
@@ -95,9 +88,6 @@ class names:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner$$typecreator5$2
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner$$typecreator9$1
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> com.monkebe.maxclique.MaxCliqueRunner$$typecreator9$2
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> com.monkebe.maxclique.demo
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> com.monkebe.maxclique.demo$
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> com.monkebe.maxclique.demo$$typecreator5$1
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> com.monkebe.maxclique.package
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> com.monkebe.maxclique.package$
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> com.monkebe.maxclique.package$JoinedSubCliqueCriteria
@@ -109,7 +99,7 @@ class names:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> com.monkebe.maxclique.package$VertexMaximalCliques
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> com.monkebe.maxclique.package$VertexMaximalCliques$
 used names:
-365 items
+269 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> $m
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> $m$untyped
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> $typecreator4
@@ -311,102 +301,6 @@ used names:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> util
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> while$1
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> zip
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> $m
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> $m$untyped
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> $typecreator5
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> $u
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> <init>
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> <repeated>
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> A
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Any
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> AnyRef
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Array
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> B
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Builder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> CanBuildFrom
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Class
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> ClassLoader
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> ClassSymbol
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Coll
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> DataFrame
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> DatasetHolder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Encoder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Function1
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Int
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Internal
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> JavaUniverse
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> List
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Mirror
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> ModuleSymbol
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Nothing
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Object
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Predef
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Product
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> ReificationSupportApi
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Seq
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Singleton
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> SparkSession
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> String
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Symbol
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> T
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> T0
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> T1
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> T2
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> That
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> ThisType
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Tuple2
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Type
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> TypeCreator
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> TypeRef
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> TypeSymbol
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> TypeTag
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> U
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Unit
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> Universe
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> apache
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> api
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> apply
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> asInstanceOf
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> asModule
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> asType
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> builder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> canBuildFrom
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> collection
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> com
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> demo
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> df
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> getClass
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> getClassLoader
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> getOrCreate
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> immutable
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> implicits
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> internal
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> localSeqToDatasetHolder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> map
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> master
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> materializeTypeTag
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> maxclique
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> moduleClass
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> monkebe
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> newProductEncoder
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> org
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> package
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> println
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> reflect
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> reificationSupport
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> runtime
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> runtimeMirror
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> scala
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> show
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> spark
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> sql
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> staticClass
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> staticPackage
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> toDF
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> toTypeConstructor
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> universe
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> values
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> x
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> &&
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> <init>
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> ==
@@ -476,34 +370,30 @@ used names:
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> vertexId
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> ||
 product stamps:
-23 items
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$anonfun$$nestedInanonfun$reduceSubCliqueDatasetList$8$1.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$1.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$2.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$3.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator5$1.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator5$2.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator9$1.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator9$2.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo$$typecreator5$1.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/demo.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubClique$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubClique.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubCliqueCriteria$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubCliqueCriteria.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$VertexMaximalCliques$.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$VertexMaximalCliques.class -> lastModified(1578118432000)
-/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package.class -> lastModified(1578118432000)
+20 items
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$anonfun$$nestedInanonfun$reduceSubCliqueDatasetList$8$1.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$1.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$2.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator4$3.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator5$1.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator5$2.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator9$1.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$$typecreator9$2.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$JoinedSubCliqueCriteria.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubClique$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubClique.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubCliqueCriteria$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$SubCliqueCriteria.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$VertexMaximalCliques$.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package$VertexMaximalCliques.class -> lastModified(1578119279000)
+/Users/david/Projects/maxClique/build/classes/scala/main/com/monkebe/maxclique/package.class -> lastModified(1578119279000)
 source stamps:
-3 items
+2 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> hash(38efe9292b9140a3eb961bf5062bcb4979230c54)
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> hash(507a609b89a0a1977c399a0f43736b7dc659cd45)
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> hash(35b57ae10dc8e790ac287a6678c5b2544d342d52)
 binary stamps:
 5 items
@@ -516,27 +406,23 @@ class names:
 5 items
 /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.12/2.4.4/50172ab29cae575c85216348cf22a544f7d7205/spark-catalyst_2.12-2.4.4.jar -> org.apache.spark.sql.Encoder
 /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-graphx_2.12/2.4.4/f51ac35d8b41f2129b69c5b878ab3e8d637efd85/spark-graphx_2.12-2.4.4.jar -> org.apache.spark.graphx.package$
-/Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.12/2.4.4/ec1d629508b27dd126a3b24ce8af91e72778e16f/spark-sql_2.12-2.4.4.jar -> org.apache.spark.sql.LowPrioritySQLImplicits
-/Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar -> scala.Serializable
+/Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.12/2.4.4/ec1d629508b27dd126a3b24ce8af91e72778e16f/spark-sql_2.12-2.4.4.jar -> org.apache.spark.sql.SparkSession$
+/Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar -> scala.Product
 /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/682d33402cdae50258afa2c0860eb54688dab610/scala-reflect-2.12.8.jar -> scala.reflect.api.TypeCreator
 internal apis:
-3 items
+2 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJHHZQAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFb8KTXQABm5vdGlmeXNxAH4ADC8V+BF0AAR3YWl0c3EAfgAMI7EWmXQADSRhc0luc3RhbmNlT2ZzcQB+AAxIFXHVdAAGZXF1YWxzc3EAfgAMYUx4A3QADGFzSW5zdGFuY2VPZnNxAH4ADEs9nOB0AANydW5zcQB+AAxM9w8OdAAMc3luY2hyb25pemVkc3EAfgAMt/u62XQADSRpc0luc3RhbmNlT2ZzcQB+AAxZE3pudAAacmVkdWNlU3ViQ2xpcXVlRGF0YXNldExpc3RzcQB+AAxhyAK8dAAPTWF4Q2xpcXVlUnVubmVyc3EAfgAMfYw4nXQACW5vdGlmeUFsbHNxAH4ADNXg19h0AAxpc0luc3RhbmNlT2ZzcQB+AAys29SGdAACPT1zcQB+AAwxfLJFdAAFY2xvbmVzcQB+AAyemtY8dAAIdG9TdHJpbmdzcQB+AAyTH3CLdAACIT1zcQB+AAwWoMb2dAAIZ2V0Q2xhc3NzcQB+AAyn1OmgdAACbmVzcQB+AAxNVhPidAAcc3ViQ2xpcXVlVG9TdWJDbGlxdWVDcml0ZXJpYXNxAH4ADDvSwpZ0AAJlcXNxAH4ADE75gUB0AAIjI3NxAH4ADBALYQd0AAhmaW5hbGl6ZXNxAH4ADALznQF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACVjb20ubW9ua2ViZS5tYXhjbGlxdWUuTWF4Q2xpcXVlUnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQADHNjYWxhLm5hdGl2ZXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBkc3EAfgBfdXEAfgBAAAAAAHNxAH4AX3VxAH4AQAAAAABzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAA2NvbXNxAH4AjXQAC2NvbS5tb25rZWJlc3EAfgCNdAAVY29tLm1vbmtlYmUubWF4Y2xpcXVlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFvbzAgDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvVXNlcnMvZGF2aWQvUHJvamVjdHMvbWF4Q2xpcXVlL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDjv6SkrkUCj65Yb9QYry0l5IwxU
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw918FJgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4SbLdXQABm5vdGlmeXNxAH4ADHlRW8Z0AARkZW1vc3EAfgAMBWSN+HQABHdhaXRzcQB+AAzuqZitdAANJGFzSW5zdGFuY2VPZnNxAH4ADGjHhyF0AAZlcXVhbHNzcQB+AAyK94lmdAAMYXNJbnN0YW5jZU9mc3EAfgAMHnrIyXQADHN5bmNocm9uaXplZHNxAH4ADPR/kvZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMyNh0P3QABG1haW5zcQB+AAzb2tAIdAAJbm90aWZ5QWxsc3EAfgAMbD65n3QADGlzSW5zdGFuY2VPZnNxAH4ADJ4p2tt0AAI9PXNxAH4ADDKz/tx0AAVjbG9uZXNxAH4ADCYik1V0AAh0b1N0cmluZ3NxAH4ADIIZgiB0AAIhPXNxAH4ADMReWEB0AAhnZXRDbGFzc3NxAH4ADIMLiZ50AAJuZXNxAH4ADENNrRt0AAJlcXNxAH4ADKGcq950AAIjI3NxAH4ADAWfPXd0AAhmaW5hbGl6ZXNxAH4ADCKDcL50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABpjb20ubW9ua2ViZS5tYXhjbGlxdWUuZGVtb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0AAxzY2FsYS5uYXRpdmV0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYHNxAH4AW3VxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3NxAH4AW3VxAH4APAAAAABzcQB+AFt1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAA2NvbXNxAH4AqHQAC2NvbS5tb25rZWJlc3EAfgCodAAVY29tLm1vbmtlYmUubWF4Y2xpcXVlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFvbzAgDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvVXNlcnMvZGF2aWQvUHJvamVjdHMvbWF4Q2xpcXVlL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFB6YJuJoKGXfDmaD0Nza33GWc1F
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJHHZQAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFb8KTXQABm5vdGlmeXNxAH4ADC8V+BF0AAR3YWl0c3EAfgAMI7EWmXQADSRhc0luc3RhbmNlT2ZzcQB+AAxIFXHVdAAGZXF1YWxzc3EAfgAMYUx4A3QADGFzSW5zdGFuY2VPZnNxAH4ADEs9nOB0AANydW5zcQB+AAxM9w8OdAAMc3luY2hyb25pemVkc3EAfgAMt/u62XQADSRpc0luc3RhbmNlT2ZzcQB+AAxZE3pudAAacmVkdWNlU3ViQ2xpcXVlRGF0YXNldExpc3RzcQB+AAxhyAK8dAAPTWF4Q2xpcXVlUnVubmVyc3EAfgAMfYw4nXQACW5vdGlmeUFsbHNxAH4ADNXg19h0AAxpc0luc3RhbmNlT2ZzcQB+AAys29SGdAACPT1zcQB+AAwxfLJFdAAFY2xvbmVzcQB+AAyemtY8dAAIdG9TdHJpbmdzcQB+AAyTH3CLdAACIT1zcQB+AAwWoMb2dAAIZ2V0Q2xhc3NzcQB+AAyn1OmgdAACbmVzcQB+AAxNVhPidAAcc3ViQ2xpcXVlVG9TdWJDbGlxdWVDcml0ZXJpYXNxAH4ADDvSwpZ0AAJlcXNxAH4ADE75gUB0AAIjI3NxAH4ADBALYQd0AAhmaW5hbGl6ZXNxAH4ADALznQF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACVjb20ubW9ua2ViZS5tYXhjbGlxdWUuTWF4Q2xpcXVlUnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQADHNjYWxhLm5hdGl2ZXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBkc3EAfgBfdXEAfgBAAAAAAHNxAH4AX3VxAH4AQAAAAABzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAA2NvbXNxAH4AjXQAC2NvbS5tb25rZWJlc3EAfgCNdAAVY29tLm1vbmtlYmUubWF4Y2xpcXVlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFvbz0WN3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvVXNlcnMvZGF2aWQvUHJvamVjdHMvbWF4Q2xpcXVlL2J1aWxkL2NsYXNzZXMvc2NhbGEvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDjv6SkrkUCj65Yb9QYry0l5IwxU
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8spzEQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbkTclHQABm5vdGlmeXNxAH4ADFIKv5t0AAd1bmFwcGx5c3EAfgAMIizlT3QAB2N1cnJpZWRzcQB+AAwpy+aDdAAHcGFja2FnZXNxAH4ADEa7KxF0AA1yaWdodENyaXRlcmlhc3EAfgAMUDB8zXQADGxlZnRDcml0ZXJpYXNxAH4ADJ7fjXN0AAR3YWl0c3EAfgAMZdfAfnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmvlbu3QADSRhc0luc3RhbmNlT2ZzcQB+AAxJSbBIdAAMcHJvZHVjdEFyaXR5c3EAfgAMS5EC43QABmVxdWFsc3NxAH4ADC/xcP10AAhjcml0ZXJpYXNxAH4ADNYJbbt0AAlTdWJDbGlxdWVzcQB+AAxLdce5dAAMYXNJbnN0YW5jZU9mc3EAfgAM1Ek4rXQACmNhbmRpZGF0ZXNzcQB+AAy4xblFdAAMc3luY2hyb25pemVkc3EAfgAMUZYs63QACHZlcnRleElkc3EAfgAME+Lmd3QADSRpc0luc3RhbmNlT2ZzcQB+AAziplpPdAAGdHVwbGVkc3EAfgAMKnn7BHQACGNhbkVxdWFsc3EAfgAMi1KLd3QADXByb2R1Y3RQcmVmaXhzcQB+AAysl1brdAAJbm90aWZ5QWxsc3EAfgAMarKyRHQADGlzSW5zdGFuY2VPZnNxAH4ADJkP/r50AAY8aW5pdD5zcQB+AAwLSQcudAAFYXBwbHlzcQB+AAyVGGVDdAACPT1zcQB+AAwDV3lDdAAFY2xvbmVzcQB+AAydzHv8dAAGJGluaXQkc3EAfgAMw8pPsnQADmNvcHkkZGVmYXVsdCQzc3EAfgAM3H0pUHQABGNvcHlzcQB+AAwUk/cLdAAHbWVtYmVyc3NxAH4ADJobbit0AAh0b1N0cmluZ3NxAH4ADDKS0UR0AAIhPXNxAH4ADHzGMBB0AAhnZXRDbGFzc3NxAH4ADJWpaSp0ABFTdWJDbGlxdWVDcml0ZXJpYXNxAH4ADA82+V90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBGAbsp0ABdKb2luZWRTdWJDbGlxdWVDcml0ZXJpYXNxAH4ADO1DDLh0AAJuZXNxAH4ADKDIVnB0AAJlcXNxAH4ADIAKg9l0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwS46CQdAAUVmVydGV4TWF4aW1hbENsaXF1ZXNzcQB+AAw3OcACdAACIyNzcQB+AAxlOmOqdAAIZmluYWxpemVzcQB+AAx6GFecdAAObWF4aW1hbENsaXF1ZXNzcQB+AAxrLlT7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyupSVzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAdY29tLm1vbmtlYmUubWF4Y2xpcXVlLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAMc2NhbGEubmF0aXZldAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBzTAAJaW5oZXJpdGVkcQB+AHNMAAdwYXJlbnRzcQB+AHN4cQB+AJJzcQB+AI11cQB+AG4AAAAAc3EAfgCNdXEAfgBuAAAAAHNxAH4AjXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AkXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AkXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AqnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aq3NxAH4AnnQAA0FueXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AAVzY2FsYXEAfgCxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADY29tc3EAfgC7dAALY29tLm1vbmtlYmVzcQB+ALt0ABVjb20ubW9ua2ViZS5tYXhjbGlxdWVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW9vMCANdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9Vc2Vycy9kYXZpZC9Qcm9qZWN0cy9tYXhDbGlxdWUvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNbV64Q3I55CsKHpmeMWyVE00LVI=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8spzEQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbkTclHQABm5vdGlmeXNxAH4ADFIKv5t0AAd1bmFwcGx5c3EAfgAMIizlT3QAB2N1cnJpZWRzcQB+AAwpy+aDdAAHcGFja2FnZXNxAH4ADEa7KxF0AA1yaWdodENyaXRlcmlhc3EAfgAMUDB8zXQADGxlZnRDcml0ZXJpYXNxAH4ADJ7fjXN0AAR3YWl0c3EAfgAMZdfAfnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmvlbu3QADSRhc0luc3RhbmNlT2ZzcQB+AAxJSbBIdAAMcHJvZHVjdEFyaXR5c3EAfgAMS5EC43QABmVxdWFsc3NxAH4ADC/xcP10AAhjcml0ZXJpYXNxAH4ADNYJbbt0AAlTdWJDbGlxdWVzcQB+AAxLdce5dAAMYXNJbnN0YW5jZU9mc3EAfgAM1Ek4rXQACmNhbmRpZGF0ZXNzcQB+AAy4xblFdAAMc3luY2hyb25pemVkc3EAfgAMUZYs63QACHZlcnRleElkc3EAfgAME+Lmd3QADSRpc0luc3RhbmNlT2ZzcQB+AAziplpPdAAGdHVwbGVkc3EAfgAMKnn7BHQACGNhbkVxdWFsc3EAfgAMi1KLd3QADXByb2R1Y3RQcmVmaXhzcQB+AAysl1brdAAJbm90aWZ5QWxsc3EAfgAMarKyRHQADGlzSW5zdGFuY2VPZnNxAH4ADJkP/r50AAY8aW5pdD5zcQB+AAwLSQcudAAFYXBwbHlzcQB+AAyVGGVDdAACPT1zcQB+AAwDV3lDdAAFY2xvbmVzcQB+AAydzHv8dAAGJGluaXQkc3EAfgAMw8pPsnQADmNvcHkkZGVmYXVsdCQzc3EAfgAM3H0pUHQABGNvcHlzcQB+AAwUk/cLdAAHbWVtYmVyc3NxAH4ADJobbit0AAh0b1N0cmluZ3NxAH4ADDKS0UR0AAIhPXNxAH4ADHzGMBB0AAhnZXRDbGFzc3NxAH4ADJWpaSp0ABFTdWJDbGlxdWVDcml0ZXJpYXNxAH4ADA82+V90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBGAbsp0ABdKb2luZWRTdWJDbGlxdWVDcml0ZXJpYXNxAH4ADO1DDLh0AAJuZXNxAH4ADKDIVnB0AAJlcXNxAH4ADIAKg9l0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwS46CQdAAUVmVydGV4TWF4aW1hbENsaXF1ZXNzcQB+AAw3OcACdAACIyNzcQB+AAxlOmOqdAAIZmluYWxpemVzcQB+AAx6GFecdAAObWF4aW1hbENsaXF1ZXNzcQB+AAxrLlT7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyupSVzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAdY29tLm1vbmtlYmUubWF4Y2xpcXVlLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAMc2NhbGEubmF0aXZldAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBzTAAJaW5oZXJpdGVkcQB+AHNMAAdwYXJlbnRzcQB+AHN4cQB+AJJzcQB+AI11cQB+AG4AAAAAc3EAfgCNdXEAfgBuAAAAAHNxAH4AjXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AkXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AkXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AqnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aq3NxAH4AnnQAA0FueXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AAVzY2FsYXEAfgCxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADY29tc3EAfgC7dAALY29tLm1vbmtlYmVzcQB+ALt0ABVjb20ubW9ua2ViZS5tYXhjbGlxdWVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW9vPRY3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9Vc2Vycy9kYXZpZC9Qcm9qZWN0cy9tYXhDbGlxdWUvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNbV64Q3I55CsKHpmeMWyVE00LVI=
 external apis:
 0 items
 source infos:
-3 items
+2 items
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/MaxCliqueRunner.scala -> 
-AAAAAAAAAAA=
-/Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/demo.scala -> 
 AAAAAAAAAAA=
 /Users/david/Projects/maxClique/src/main/scala/com/monkebe/maxclique/package.scala -> 
 AAAAAAAAAAA=
 compilations:
 1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABb28wIA11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9kYXZpZC9Qcm9qZWN0cy9tYXhDbGlxdWUvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABLw==
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABb289Fjd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9kYXZpZC9Qcm9qZWN0cy9tYXhDbGlxdWUvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABLw==
