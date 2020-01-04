@@ -1,0 +1,39 @@
+products:
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator13$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator21$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator29$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator37$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator4$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator44$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator48$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest$$typecreator8$1.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/test/com/monkebe/maxclique/MaxCliqueRunnerTest.class
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> build/classes/scala/test/com/monkebe/maxclique/demoTest.class
+binary dependencies:
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.12/2.4.4/50172ab29cae575c85216348cf22a544f7d7205/spark-catalyst_2.12-2.4.4.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-graphx_2.12/2.4.4/f51ac35d8b41f2129b69c5b878ab3e8d637efd85/spark-graphx_2.12-2.4.4.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.12/2.4.4/ec1d629508b27dd126a3b24ce8af91e72778e16f/spark-sql_2.12-2.4.4.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/682d33402cdae50258afa2c0860eb54688dab610/scala-reflect-2.12.8.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.8/b50559dfc4a691c1089f9c8812e1d6fd17f80277/scalactic_2.12-3.0.8.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.8/8493ffa579676977b810a7a9fdc23af9d3c8af7f/scalatest_2.12-3.0.8.jar
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/main/com/monkebe/maxclique/MaxCliqueRunner$.class
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> build/classes/scala/main/com/monkebe/maxclique/package$.class
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.10/3509860bc2e5b3da001ed45aca94ffbe5694dbda/scala-library-2.12.10.jar
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.8/b50559dfc4a691c1089f9c8812e1d6fd17f80277/scalactic_2.12-3.0.8.jar
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> /Users/david/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.8/8493ffa579676977b810a7a9fdc23af9d3c8af7f/scalatest_2.12-3.0.8.jar
+source dependencies:
+external dependencies:
+class names:
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator13$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator21$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator29$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator37$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator4$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator44$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator48$1
+   src/test/scala/com/monkebe/maxclique/MaxCliqueRunnerTest.scala -> com.monkebe.maxclique.MaxCliqueRunnerTest$$typecreator8$1
+   src/test/scala/com/monkebe/maxclique/demoTest.scala -> com.monkebe.maxclique.demoTest

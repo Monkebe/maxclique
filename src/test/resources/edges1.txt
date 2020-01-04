@@ -1,0 +1,13 @@
+{"src": 1, "dst": 2}
+{"src": 1, "dst": 3}
+{"src": 2, "dst": 1}
+{"src": 2, "dst": 3}
+{"src": 3, "dst": 1}
+{"src": 3, "dst": 2}
+
+{"src": 3, "dst": 4}
+{"src": 3, "dst": 5}
+{"src": 4, "dst": 3}
+{"src": 4, "dst": 5}
+{"src": 5, "dst": 3}
+{"src": 5, "dst": 4}
